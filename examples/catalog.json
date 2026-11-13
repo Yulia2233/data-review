@@ -1,0 +1,25 @@
+{
+  "schema_version": "stepir-review-catalog-v1",
+  "rows": [
+    {
+      "case": "example--box-001",
+      "part_name": "Example box",
+      "batch": "example",
+      "batch_label": "合成演示",
+      "in_batch": true,
+      "in_packed": false,
+      "new_accepted": false,
+      "riou": null,
+      "ok": null,
+      "minutes": null,
+      "session": "example-session",
+      "target": "examples/artifacts/example--box-001/target.step",
+      "rebuild": "examples/artifacts/example--box-001/rebuild.step",
+      "trajectory": "examples/trajectory.json",
+      "model": "examples/artifacts/example--box-001/model.py",
+      "report": null,
+      "design_intent": "Synthetic example only; no real agent result.",
+      "agent_delivered": false
+    }
+  ]
+}

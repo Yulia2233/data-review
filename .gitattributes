@@ -1,0 +1,3 @@
+# STEP writers may emit grammar-significant trailing spaces; preserve source bytes.
+*.step whitespace=-blank-at-eol
+*.stp whitespace=-blank-at-eol

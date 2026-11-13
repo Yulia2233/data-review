@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "synthetic_example": true,
+  "sdk": "2.2.7",
+  "camera": {
+    "fit": "shared",
+    "projection": "parallel",
+    "elevation": 35.264389682754654,
+    "azimuth": -45
+  },
+  "target_sha256": "28562e3b601bc0bba9f9618cb48859f288074594cc10ede4d4a8ec7071fbbcc2",
+  "rebuild_sha256": "8b275ee8e091b772930f24ce8ff1e496e9fe68bfde64a8a409bb993f3e6c0415"
+}

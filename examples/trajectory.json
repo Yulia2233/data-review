@@ -1,0 +1,10 @@
+{
+  "schema_version": "cad-code-session-v2",
+  "id": "example-session",
+  "model": "example",
+  "messages": [
+    {"info": {"role": "user"}, "parts": [{"type": "text", "text": "Synthetic review example."}]},
+    {"info": {"role": "assistant"}, "parts": [{"type": "text", "text": "This is a non-model demonstration trajectory."}]}
+  ],
+  "tool_media": []
+}
